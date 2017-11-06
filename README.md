@@ -1,0 +1,2 @@
+# friendycarng
+Angular Cli project
